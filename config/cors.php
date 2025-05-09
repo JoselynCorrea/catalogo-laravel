@@ -6,7 +6,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://catalogo-95ka.onrender.com'], 
+    'allowed_origins' => ['*'], 
 
     'allowed_origins_patterns' => [],
 
